@@ -1,6 +1,6 @@
 # Running C Files in JetBrains Fleet - Noob-Proof Guide
 ## Introduction
-## This guide provides step-by-step instructions on how to run C files using JetBrains Fleet, ensuring a seamless experience for beginners. The provided run.json configuration file simplifies the process and allows users to execute C programs effortlessly.
+This guide provides step-by-step instructions on how to run C files using JetBrains Fleet, ensuring a seamless experience for beginners. The provided run.json configuration file simplifies the process and allows users to execute C programs effortlessly.
 
 ### Prerequisites
 Before proceeding, make sure you have the following installed:
